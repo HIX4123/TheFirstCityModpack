@@ -15,6 +15,7 @@
 ### 기타 주의사항
 
 - 고대 도시에서 워든을 잡고 열쇠를 얻은 시점 이후 되도록 전원이 함께 행동해야 한다고 함
+- [렉이 심한 경우 참고](https://github.com/HIX4123/create-pokemon/tree/main?tab=readme-ov-file#how-to-reduce-lag), 단, 렌더 거리는 32 이상 유지해야 함
 
 ## Mod List
 
