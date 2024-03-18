@@ -1,5 +1,21 @@
 # TheFirstCityModpack
 
+## *필독*
+
+- 렌더 거리 최소 32 이상
+- 시뮬레이션 거리 최소 32 이상
+- 그래픽은 `Fancy`(화려하게) 고정 (`Fabulous`(*기막히게!*) 아님)
+- 그래픽 설정에서 Viewbobbing 비활성화
+
+### 서버를 열 때 Gamerules에서 이하의 설정 필수
+
+- `doImmediateRespawn`(즉시 리스폰) : `true`
+- `keepInventory`(인벤토리 유지) : `true`
+
+### 기타 주의사항
+
+- 고대 도시에서 워든을 잡고 열쇠를 얻은 시점 이후 되도록 전원이 함께 행동해야 한다고 함
+
 ## Mod List
 
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [4.5.1] by Traben
